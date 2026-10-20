@@ -1,4 +1,3 @@
-# special-robot
 # Securing the Skies: Anomaly Analysis of ADS-B Surveillance Data
 
 Code for the quantitative part of my MSc dissertation, *Securing the Skies: A Critical Evaluation of ADS-B and ACARS Vulnerabilities and Mitigation Strategies* (MSc Information Security and Digital Forensics, University of East London; submitted January 2025).
